@@ -1,5 +1,10 @@
 {
   "name": "ink-cms",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/pearcode/ink/"
+  },
   "version": "0.2.0",
   "scripts": {
     "serve": "vue-cli-service serve",
