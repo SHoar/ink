@@ -20,7 +20,7 @@ Once you have docker installed, clone down this repository and build the require
 ```
 mkdir -p ~/Projects/ink/
 cd ~/Projects/ink/
-git clone git@github.com:RobertTownley/ink.git
+git clone git@github.com:pearcode/ink.git
 docker-compose build
 ``` 
 
